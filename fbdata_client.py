@@ -44,9 +44,7 @@ if __name__ == '__main__':
 #     client = FBDataService.Client(protocol)
 #
 #     transport.open()
-#
-#     print('111111111111111111')
-#
+
 #     ret1=client.get_1hop_dict_by_mid('m.0100zby9')
 #     print(ret1)
 #     ret2=client.get_1hop_triple_by_mid('m.0100zby9')
